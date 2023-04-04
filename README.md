@@ -6,7 +6,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbpark88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231A447E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![SB Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbpark88&show_icons=true&theme=radical)
+![SB Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbpark88&show_icons=true&theme=aura)
 <a href="https://sbpark88.github.io">
   <img src="blog-header-image.png" alt="blog-image" width="375">
 </a>
