@@ -29,8 +29,10 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-3178C6.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Scss-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white)
 
 ---
 
@@ -77,9 +79,6 @@ Hits
 Markdown : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbpark88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231A447E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 HTML : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbpark88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231A447E&title=hits&edge_flat=false"/></a>
 EMBED(Notion) : https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbpark88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231A447E&title=hits&edge_flat=false
-
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white)
 
 ![RxJS](https://img.shields.io/badge/RxJS-A22846.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-A22846.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white)
