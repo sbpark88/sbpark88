@@ -72,9 +72,17 @@
 
 [![Gmail Badge][Gmail Icon]][My Email]
 
+<!--
+설정 참고 사이트 : https://soo-vely-dev.tistory.com/159
 
+Hits
+Markdown : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbpark88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231A447E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+HTML : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbpark88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231A447E&title=hits&edge_flat=false"/></a>
+EMBED(Notion) : https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbpark88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231A447E&title=hits&edge_flat=false
+-->
 
 <!--
+Icons
 ![HTML5][HTML5 Icon]
 ![CSS3][CSS3 Icon]
 ![SCSS][SCSS Icon]
@@ -151,12 +159,3 @@
 [My Blog]:https://sbpark88.github.io
 [Gmail Icon]:https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white
 [My Email]:mailto:devsbipa@gmail.com
-
-<!--
-설정 참고 사이트 : https://soo-vely-dev.tistory.com/159
-
-Hits
-Markdown : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbpark88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231A447E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-HTML : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbpark88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231A447E&title=hits&edge_flat=false"/></a>
-EMBED(Notion) : https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbpark88&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231A447E&title=hits&edge_flat=false
--->
