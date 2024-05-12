@@ -114,6 +114,8 @@ EMBED(Notion) : https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3
 ![Docker][Docker Icon]
 ![Azure DevOps][Azure DevOps Icon]
 ![AWS EC2][AWS EC2 Icon]
+![Netlify][Netlify Icon]
+![Vercel][Vercel Icon]
 ![Raspberry Pi][Raspberry Pi Icon]
 ![Oracle][Oracle Icon]
 ![PostgreSQL][PostgreSQL Icon]
@@ -163,6 +165,8 @@ EMBED(Notion) : https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3
 [Docker Icon]:https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white
 [Azure DevOps Icon]:https://img.shields.io/badge/Azure_DevOps-0078D7.svg?&style=for-the-badge&logo=azuredevops&logoColor=white
 [AWS EC2 Icon]:https://img.shields.io/badge/Aws_EC2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white
+[Netlify Icon]:https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white
+[Vercel Icon]:https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white
 [Raspberry Pi Icon]:https://img.shields.io/badge/Raspberry_Pi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white
 [Oracle Icon]:https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white
 [PostgreSQL Icon]:https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white
@@ -170,7 +174,6 @@ EMBED(Notion) : https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3
 [Microsoft SQL Server Icon]:https://img.shields.io/badge/Microsoft_SQL_Server-4479A1.svg?&style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white
 [OWASP Icon]:https://img.shields.io/badge/OWASP-000000.svg?&style=for-the-badge&logo=OWASP&logoColor=white
 [AWS Lambda Icon]:https://img.shields.io/badge/Aws_Lambda-FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white
-
 
 [GitBlog Icon]:http://img.shields.io/badge/GitHub_Blog-181717?style=flat-square&logo=github&logoColor=white
 [My Blog]:https://sbpark88.github.io
