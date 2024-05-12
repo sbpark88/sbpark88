@@ -82,11 +82,17 @@ EMBED(Notion) : https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3
 -->
 
 <!--
-Icons
 ![HTML5][HTML5 Icon]
 ![CSS3][CSS3 Icon]
 ![SCSS][SCSS Icon]
+![Styled Components][Styled Components Icon]
+![MUI][MUI Icon]
 ![Tailwind CSS][Tailwind CSS Icon]
+![Redux][Redux Icon]
+![Redux Saga][Redux Saga Icon]
+![Recoil][Recoil Icon]
+![Zustand][Zustand Icon]
+![Next.js][Next.js Icon]
 ![JavaScript][JavaScript Icon]
 ![TypeScript][TypeScript Icon]
 ![RxJS][RxJS Icon]
@@ -121,10 +127,21 @@ Icons
 [![Gmail Badge][Gmail Icon]][My Email]
 -->
 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [HTML5 Icon]:https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white
 [CSS3 Icon]:https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white
 [SCSS Icon]:https://img.shields.io/badge/Scss-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white
+[Styled Components Icon]:https://img.shields.io/badge/Styled_Components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white
+[MUI Icon]:https://img.shields.io/badge/MUI-007FFF.svg?&style=for-the-badge&logo=MUI&logoColor=white
 [Tailwind CSS Icon]:https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white
+[Redux Icon]:https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white
+[Redux Saga Icon]:https://img.shields.io/badge/Redux_Saga-999999.svg?&style=for-the-badge&logo=Redux-Saga&logoColor=white
+[Recoil Icon]:https://img.shields.io/badge/Recoil-3578E5.svg?&style=for-the-badge&logo=Recoil&logoColor=white
+[Zustand Icon]:https://img.shields.io/badge/Zustand-999999.svg?&style=for-the-badge&logo=Zustand&logoColor=white
+[Next.js Icon]:https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white
 [JavaScript Icon]:https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white
 [TypeScript Icon]:https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white
 [RxJS Icon]:https://img.shields.io/badge/RxJS-A22846.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white
