@@ -13,10 +13,11 @@
 
 # 💻 In Use
 
-![JavaScript][JavaScript Icon]
-![Vue.js][Vue.js Icon]
 ![HTML5][HTML5 Icon]
-![CSS3][CSS3 Icon]
+![SCSS][SCSS Icon]
+![JavaScript][JavaScript Icon]
+![TypeScript][TypeScript Icon]
+![React][React Icon]
 
 ![Java][Java Icon]
 ![Spring][Spring Icon]
@@ -24,14 +25,15 @@
 
 ![PostgreSQL][PostgreSQL Icon]
 
+![Netlify][Netlify Icon] 
+![Vercel][Vercel Icon]
+![Firebase][Firebase Icon] 
+
 # 📚 In Learning
 
 ![Swift][Swift Icon]
 ![SwiftUI][SwiftUI Icon]
 
-![React][React Icon]
-![TypeScript][TypeScript Icon]
-![SCSS][SCSS Icon]
 ![Tailwind CSS][Tailwind CSS Icon]
 
 ---
@@ -39,6 +41,7 @@
 # 👀 Experience
 
 ![Angular][Angular Icon]
+![Vue.js][Vue.js Icon]
 ![.NET][.NET Icon]
 ![Classic ASP][Classic ASP Icon]
 ![Node.js][Node.js Icon]
@@ -107,7 +110,12 @@ Icons
 ![Python][Python Icon]
 ![Docker][Docker Icon]
 ![Azure DevOps][Azure DevOps Icon]
+![AWS][AWS Icon]
 ![AWS EC2][AWS EC2 Icon]
+![AWS Lambda][AWS Lambda Icon]
+![Netlify][Netlify Icon]
+![Vercel][Vercel Icon]
+![Firebase][Firebase Icon]
 ![Raspberry Pi][Raspberry Pi Icon]
 ![Oracle][Oracle Icon]
 ![PostgreSQL][PostgreSQL Icon]
@@ -119,6 +127,10 @@ Icons
 
 [![GitHub Blog][GitBlog Icon]][My Blog]
 [![Gmail Badge][Gmail Icon]][My Email]
+-->
+
+<!--
+https://simpleicons.org/ 에서 검색해서 추가
 -->
 
 [HTML5 Icon]:https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white
@@ -145,7 +157,12 @@ Icons
 [Python Icon]:https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white
 [Docker Icon]:https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white
 [Azure DevOps Icon]:https://img.shields.io/badge/Azure_DevOps-0078D7.svg?&style=for-the-badge&logo=azuredevops&logoColor=white
-[AWS EC2 Icon]:https://img.shields.io/badge/Aws_EC2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white
+[AWS Icon]:https://img.shields.io/badge/Amazon_AWS-232F3E.svg?&style=for-the-badge&logo=amazoneaws&logoColor=white
+[AWS EC2 Icon]:https://img.shields.io/badge/AWS_EC2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white
+[AWS Lambda Icon]:https://img.shields.io/badge/AWS_Lambda-FF9900.svg?&style=for-the-badge&logo=awslambda&logoColor=white
+[Netlify Icon]:https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white
+[Vercel Icon]:https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white
+[Firebase Icon]:https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white
 [Raspberry Pi Icon]:https://img.shields.io/badge/Raspberry_Pi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white
 [Oracle Icon]:https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white
 [PostgreSQL Icon]:https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white
