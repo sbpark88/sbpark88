@@ -18,6 +18,7 @@
 ![JavaScript][JavaScript Icon]
 ![TypeScript][TypeScript Icon]
 ![React][React Icon]
+![Styled Components][Styled Components Icon]
 
 ![Java][Java Icon]
 ![Spring][Spring Icon]
